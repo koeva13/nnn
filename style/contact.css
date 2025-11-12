@@ -1,11 +1,22 @@
+body{
+ background-color: black;
+ justify-items: center;
+font-size: xx-large;
+}
+
 input {
   margin: 0.4rem 0;
+  scale: 2;
+  justify-items: center;
 }
 
 label,
 textarea {
   font-size: 0.8rem;
   letter-spacing: 1px;
+}
+h1{
+color: blue;
 }
 
 textarea {
@@ -15,6 +26,7 @@ textarea {
   border-radius: 5px;
   border: 1px solid #cccccc;
   box-shadow: 1px 1px 1px #999999;
+  scale: 2;
 }
 
 label {
