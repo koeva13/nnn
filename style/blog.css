@@ -1,0 +1,21 @@
+body {
+ background-color: black;
+}
+
+h1 {
+    justify-items: center;
+    color: blue;
+     left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 10%;
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+h3 {
+ left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 25%;
+}
