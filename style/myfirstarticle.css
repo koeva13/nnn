@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1 {
+   left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 5%;
+    color: blue;
+    font-size: xx-large;
+}
+
+p {
+    color: cornsilk;
+    top: 25%;
+}
