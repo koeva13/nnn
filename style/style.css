@@ -72,9 +72,9 @@ body {
     border-radius: 50%;
     background: radial-gradient(
         ellipse at center,
-        rgba(248, 168, 111, 0.8),
-        rgba(248, 168, 111, 0.6),
-        rgba(248, 168, 111, 0.4));
+        rgba(0, 8, 255, 0.8),
+        rgba(0, 8, 255, 0.8),
+        rgba(0, 8, 255, 0.4));
     filter: blur(70px);
 
     z-index: -1;
@@ -129,7 +129,7 @@ img:hover {
 
 #profile-img:hover #name {
     top: 85%;
-    color: peachpuff;
+    color: rgb(0, 8, 255, 0.4);
 }
 
 #navigation {
@@ -171,7 +171,7 @@ img:hover {
 }
 
 #navigation li:hover {
-    color: peachpuff;
+    color: rgb(0, 8, 255, 0.4);
 }
 
 #navigation a {
@@ -222,7 +222,7 @@ img:hover {
 }
 
 .social-media-btn:hover {
-    color: peachpuff;
+    color: rgb(0, 8, 255, 0.4);
 }
 
 #social-media .social-media-btn:first-child {

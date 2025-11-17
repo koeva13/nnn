@@ -11,7 +11,75 @@ h1 {
     font-size: xx-large;
 }
 
-p {
-    color: cornsilk;
+img{
+    position: absolute;
+    top: 50%;
+    left: 7%;
+}
+
+p1 {
+    color: wheat;
+    position: absolute;
     top: 25%;
+    left: 5%    ;
+}
+
+p2 {
+    color: wheat;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+
+p3 {
+    color: wheat;
+    position: absolute;
+    top: 35%;
+    left: 5%;
+}
+
+h2 {
+    color: wheat;
+    position: absolute;
+    top: 180% ;
+    left: 15%;
+  
+}
+
+p4 {
+    color: wheat;
+    position: absolute;
+    top: 200%;
+    left: 5%;
+}
+
+p5 {
+    color: wheat;
+    position: absolute;
+    top: 205%;
+    left: 5%;
+}
+
+p6 {
+    color: wheat;
+    position: absolute;
+    top: 210%;
+    bottom: auto;
+    left: 5%;
+}
+
+h3 {
+    color: wheat;
+    position: absolute;
+    top: 230% ;
+    left: 15%;
+    font-size: x-large;
+  
+}
+
+p7 {
+    color: wheat;
+    position: absolute;
+    top: 245%;
+    left: 5%;
 }
