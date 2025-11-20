@@ -21,6 +21,7 @@ p1 {
     color: wheat;
     position: absolute;
     left: 7%;
+    right: 7%;
     top: 40%;
 }
 
@@ -32,6 +33,51 @@ h3 {
     font-size: x-large;
 }
 
+p2 {
+    color: wheat;
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 70%;
+}
+
 h4 {
     color: blue;
+    position: absolute;
+    left: 15%;
+    top: 85%;
+    font-size: large;
+}
+
+p3 {
+    color: wheat;
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 95%;
+}
+
+P4 {
+    color: wheat;
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 100%;
+}   
+
+p5 {
+    color: wheat;
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 110%;
+}
+
+p6 {
+    color: wheat;
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 115%;
+    
 }
