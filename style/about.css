@@ -70,7 +70,7 @@ p5 {
     position: absolute;
     left: 7%;
     right: 7%;
-    top: 110%;
+    top: 115%;
 }
 
 p6 {
@@ -78,6 +78,6 @@ p6 {
     position: absolute;
     left: 7%;
     right: 7%;
-    top: 115%;
-    
+    top: 120%;
+    bottom: 5%;
 }
